@@ -5,7 +5,7 @@
     
     <entry>
       <title><![CDATA[Coding个人博客绑定域名]]></title>
-      <url>http://www.smpower.site.com/2016/08/15/Coding%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/</url>
+      <url>http://www.smpower.site/2016/08/15/Coding%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/</url>
       <content type="html"><![CDATA[<p>Coding个人博客绑定域名只需两个步骤即可。</p>
 <h3 id="Coding上添加域名绑定"><a href="#Coding上添加域名绑定" class="headerlink" title="Coding上添加域名绑定"></a>Coding上添加域名绑定</h3><p>进入项目，开启Pages服务，添加域名绑定。</p>
 <p><img src="/images/Coding上开启pages服务.png" alt="Coding上开启pages服务.png"></p>
@@ -16,7 +16,7 @@
     
     <entry>
       <title><![CDATA[Github个人博客绑定域名]]></title>
-      <url>http://www.smpower.site.com/2016/08/15/Github%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/</url>
+      <url>http://www.smpower.site/2016/08/15/Github%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/</url>
       <content type="html"><![CDATA[<p>Github个人博客绑定域名只需两个步骤即可完成。</p>
 <h3 id="创建CNAME文件"><a href="#创建CNAME文件" class="headerlink" title="创建CNAME文件"></a>创建CNAME文件</h3><p>以本站域名”smpower.site”为例，在站点根目录创建CNAME文件（文件无后缀），CNAME文件内记录”smpower.site”（不含引号，下同）或”www.smpower.site”。若记录”smpower.site”，当输入网址”www.smpower.site”时解析为”smpower.site”；若记录”smpower.site”，当输入网址时解析为”www.smpower.site”。注意，CNAME文件内只能有一行且上面两个域名只能输入其中一个。</p>
 <h3 id="指向Github"><a href="#指向Github" class="headerlink" title="指向Github"></a>指向Github</h3><p>在域名商处新增3条解析记录——2条A类型记录，一条CNAME类型记录。下图中2条A类型记录的记录值为官方所定，可查看<a href="https://help.github.com/articles/setting-up-an-apex-domain/" target="_blank" rel="external">官方文档</a>。</p>
@@ -26,7 +26,7 @@
     
     <entry>
       <title><![CDATA[Debian安装FlashPlayer]]></title>
-      <url>http://www.smpower.site.com/2016/08/07/Debian%E5%AE%89%E8%A3%85FlashPlayer/</url>
+      <url>http://www.smpower.site/2016/08/07/Debian%E5%AE%89%E8%A3%85FlashPlayer/</url>
       <content type="html"><![CDATA[<h4 id="下载Flashplayer"><a href="#下载Flashplayer" class="headerlink" title="下载Flashplayer"></a>下载Flashplayer</h4><ul>
 <li>官网下载：<a href="https://get.adobe.com/flashplayer/?loc=cn" target="_blank" rel="external">https://get.adobe.com/flashplayer/?loc=cn</a></li>
 <li>解压后进入解压目录</li>
@@ -41,7 +41,7 @@
     
     <entry>
       <title><![CDATA[npm换源]]></title>
-      <url>http://www.smpower.site.com/2016/08/04/npm%E6%8D%A2%E6%BA%90/</url>
+      <url>http://www.smpower.site/2016/08/04/npm%E6%8D%A2%E6%BA%90/</url>
       <content type="html"><![CDATA[<h5 id="更换淘宝镜像"><a href="#更换淘宝镜像" class="headerlink" title="更换淘宝镜像"></a>更换淘宝镜像</h5><ul>
 <li><p>临时使用<br>  <code>npm --registry https://registry.npm.taobao.org install express</code></p>
 </li>
@@ -55,7 +55,7 @@
     
     <entry>
       <title><![CDATA[Debian下部署Hexo——利用Github搭建个人博客]]></title>
-      <url>http://www.smpower.site.com/2016/08/02/Debian%E4%B8%8B%E9%83%A8%E7%BD%B2Hexo%E2%80%94%E2%80%94%E5%88%A9%E7%94%A8Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+      <url>http://www.smpower.site/2016/08/02/Debian%E4%B8%8B%E9%83%A8%E7%BD%B2Hexo%E2%80%94%E2%80%94%E5%88%A9%E7%94%A8Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
       <content type="html"><![CDATA[<h4 id="部署hexo前的准备"><a href="#部署hexo前的准备" class="headerlink" title="部署hexo前的准备"></a>部署hexo前的准备</h4><h5 id="安装Git"><a href="#安装Git" class="headerlink" title="安装Git"></a>安装Git</h5><p><code># apt-get install git</code></p>
 <h5 id="部署nodejs和npm"><a href="#部署nodejs和npm" class="headerlink" title="部署nodejs和npm"></a>部署nodejs和npm</h5><ul>
 <li><p>下载Node.js<br>  到 <a href="https://nodejs.org/en/download/" target="_blank" rel="external">https://nodejs.org/en/download/</a> 下载 Linux Binaries (.tar.xz)，解压后到目录 /bin 下，执行：</p>
