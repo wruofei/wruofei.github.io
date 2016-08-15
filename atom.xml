@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>若非的博客</title>
   <subtitle>生命不息/奋斗不止</subtitle>
-  <link href="/wruofei/wruofei.github.io/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://github.com/wruofei/wruofei.github.io/"/>
+  <link href="http://www.smpower.site/"/>
   <updated>2016-08-15T08:59:24.000Z</updated>
-  <id>https://github.com/wruofei/wruofei.github.io/</id>
+  <id>http://www.smpower.site/</id>
   
   <author>
     <name>若非</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Coding个人博客绑定域名</title>
-    <link href="https://github.com/wruofei/wruofei.github.io/2016/08/15/Coding%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/"/>
-    <id>https://github.com/wruofei/wruofei.github.io/2016/08/15/Coding个人博客绑定域名/</id>
+    <link href="http://www.smpower.site/2016/08/15/Coding%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/"/>
+    <id>http://www.smpower.site/2016/08/15/Coding个人博客绑定域名/</id>
     <published>2016-08-15T03:34:56.000Z</published>
     <updated>2016-08-15T08:59:24.000Z</updated>
     
@@ -35,17 +35,17 @@
     
     </summary>
     
-      <category term="博客搭建" scheme="https://github.com/wruofei/wruofei.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+      <category term="博客搭建" scheme="http://www.smpower.site/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     
-      <category term="Coding" scheme="https://github.com/wruofei/wruofei.github.io/tags/Coding/"/>
+      <category term="Coding" scheme="http://www.smpower.site/tags/Coding/"/>
     
   </entry>
   
   <entry>
     <title>Github个人博客绑定域名</title>
-    <link href="https://github.com/wruofei/wruofei.github.io/2016/08/15/Github%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/"/>
-    <id>https://github.com/wruofei/wruofei.github.io/2016/08/15/Github个人博客绑定域名/</id>
+    <link href="http://www.smpower.site/2016/08/15/Github%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/"/>
+    <id>http://www.smpower.site/2016/08/15/Github个人博客绑定域名/</id>
     <published>2016-08-14T18:06:02.000Z</published>
     <updated>2016-08-14T18:46:16.000Z</updated>
     
@@ -61,17 +61,17 @@
     
     </summary>
     
-      <category term="搭建博客" scheme="https://github.com/wruofei/wruofei.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+      <category term="搭建博客" scheme="http://www.smpower.site/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
     
     
-      <category term="Github" scheme="https://github.com/wruofei/wruofei.github.io/tags/Github/"/>
+      <category term="Github" scheme="http://www.smpower.site/tags/Github/"/>
     
   </entry>
   
   <entry>
     <title>Debian安装FlashPlayer</title>
-    <link href="https://github.com/wruofei/wruofei.github.io/2016/08/07/Debian%E5%AE%89%E8%A3%85FlashPlayer/"/>
-    <id>https://github.com/wruofei/wruofei.github.io/2016/08/07/Debian安装FlashPlayer/</id>
+    <link href="http://www.smpower.site/2016/08/07/Debian%E5%AE%89%E8%A3%85FlashPlayer/"/>
+    <id>http://www.smpower.site/2016/08/07/Debian安装FlashPlayer/</id>
     <published>2016-08-07T10:48:29.000Z</published>
     <updated>2016-08-14T19:17:55.000Z</updated>
     
@@ -92,19 +92,19 @@
     
     </summary>
     
-      <category term="Software" scheme="https://github.com/wruofei/wruofei.github.io/categories/Software/"/>
+      <category term="Software" scheme="http://www.smpower.site/categories/Software/"/>
     
     
-      <category term="Flashplayer" scheme="https://github.com/wruofei/wruofei.github.io/tags/Flashplayer/"/>
+      <category term="Flashplayer" scheme="http://www.smpower.site/tags/Flashplayer/"/>
     
-      <category term="Linux" scheme="https://github.com/wruofei/wruofei.github.io/tags/Linux/"/>
+      <category term="Linux" scheme="http://www.smpower.site/tags/Linux/"/>
     
   </entry>
   
   <entry>
     <title>npm换源</title>
-    <link href="https://github.com/wruofei/wruofei.github.io/2016/08/04/npm%E6%8D%A2%E6%BA%90/"/>
-    <id>https://github.com/wruofei/wruofei.github.io/2016/08/04/npm换源/</id>
+    <link href="http://www.smpower.site/2016/08/04/npm%E6%8D%A2%E6%BA%90/"/>
+    <id>http://www.smpower.site/2016/08/04/npm换源/</id>
     <published>2016-08-04T10:46:34.000Z</published>
     <updated>2016-08-14T18:45:20.000Z</updated>
     
@@ -124,17 +124,17 @@
     
     </summary>
     
-      <category term="搭建博客" scheme="https://github.com/wruofei/wruofei.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+      <category term="搭建博客" scheme="http://www.smpower.site/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
     
     
-      <category term="npm" scheme="https://github.com/wruofei/wruofei.github.io/tags/npm/"/>
+      <category term="npm" scheme="http://www.smpower.site/tags/npm/"/>
     
   </entry>
   
   <entry>
     <title>Debian下部署Hexo——利用Github搭建个人博客</title>
-    <link href="https://github.com/wruofei/wruofei.github.io/2016/08/02/Debian%E4%B8%8B%E9%83%A8%E7%BD%B2Hexo%E2%80%94%E2%80%94%E5%88%A9%E7%94%A8Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://github.com/wruofei/wruofei.github.io/2016/08/02/Debian下部署Hexo——利用Github搭建个人博客/</id>
+    <link href="http://www.smpower.site/2016/08/02/Debian%E4%B8%8B%E9%83%A8%E7%BD%B2Hexo%E2%80%94%E2%80%94%E5%88%A9%E7%94%A8Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://www.smpower.site/2016/08/02/Debian下部署Hexo——利用Github搭建个人博客/</id>
     <published>2016-08-02T10:50:16.000Z</published>
     <updated>2016-08-14T18:44:19.000Z</updated>
     
@@ -214,16 +214,16 @@
     
     </summary>
     
-      <category term="搭建博客" scheme="https://github.com/wruofei/wruofei.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+      <category term="搭建博客" scheme="http://www.smpower.site/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
     
     
-      <category term="Hexo" scheme="https://github.com/wruofei/wruofei.github.io/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://www.smpower.site/tags/Hexo/"/>
     
-      <category term="Git" scheme="https://github.com/wruofei/wruofei.github.io/tags/Git/"/>
+      <category term="Git" scheme="http://www.smpower.site/tags/Git/"/>
     
-      <category term="Nodejs" scheme="https://github.com/wruofei/wruofei.github.io/tags/Nodejs/"/>
+      <category term="Nodejs" scheme="http://www.smpower.site/tags/Nodejs/"/>
     
-      <category term="npm" scheme="https://github.com/wruofei/wruofei.github.io/tags/npm/"/>
+      <category term="npm" scheme="http://www.smpower.site/tags/npm/"/>
     
   </entry>
   
