@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://smpower.site/"/>
-  <updated>2016-08-15T08:59:24.000Z</updated>
+  <updated>2016-08-16T00:20:53.469Z</updated>
   <id>http://smpower.site/</id>
   
   <author>
@@ -14,6 +14,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>post</title>
+    <link href="http://smpower.site/2016/08/16/post/"/>
+    <id>http://smpower.site/2016/08/16/post/</id>
+    <published>2016-08-16T00:20:53.000Z</published>
+    <updated>2016-08-16T00:20:53.469Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Coding个人博客绑定域名</title>
