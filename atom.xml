@@ -217,13 +217,13 @@
       <category term="搭建博客" scheme="http://smpower.site/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
     
     
+      <category term="npm" scheme="http://smpower.site/tags/npm/"/>
+    
       <category term="Hexo" scheme="http://smpower.site/tags/Hexo/"/>
     
       <category term="Git" scheme="http://smpower.site/tags/Git/"/>
     
       <category term="Nodejs" scheme="http://smpower.site/tags/Nodejs/"/>
-    
-      <category term="npm" scheme="http://smpower.site/tags/npm/"/>
     
   </entry>
   
